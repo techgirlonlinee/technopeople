@@ -49,7 +49,7 @@ const pages = [
 {copy: "cat owner / introvert / guitarist"} 
 ]
 
-const outputTag = document.querySelector("a") 
+const outputTag = document.querySelector("p") 
 const nextTag = document.querySelector("h2") 
 
 const updateSection = function () {
