@@ -26,7 +26,7 @@ const random = function (){
 document.querySelector("body").addEventListener("click", random)
 
 
-document.addEventListener ("keyup", function (event){
+document.addEventListener("keyup", function (event){
   if (event.key == "ArrowRight"){
     random () }
 })
