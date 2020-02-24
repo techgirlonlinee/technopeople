@@ -1,10 +1,16 @@
 const pages = [
  "‘do you have that on vinyl’",
- "trashing techhouse",
- "saying i love techno but actually listens to techhouse",
- "‘can I get on the guestlist’",
+ "trashing tech house",
+ "mistaking tech house for techno",
+ "‘can i get on the guestlist’",
  "making fun of solomun",
- "‘check out my soundcloud bro’"
+ "‘check out my soundcloud mix’",
+ "‘berghain changed my life man’",
+ "thinks wearing black is a personality trait",
+ "commenting on Nina Kraviz feet",
+ "‘track ID?’",
+ "moving to Berlin"
+
 ]
 
 const outputTag = document.querySelector(".text") 
